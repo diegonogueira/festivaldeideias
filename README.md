@@ -2,6 +2,12 @@ Project Status
 ------
 [![Build Status](https://secure.travis-ci.org/softa/festivaldeideias.png?branch=master)](http://travis-ci.org/softa/festivaldeideias)
 
+Este repositório foi movido
+---------------------------
+[https://github.com/engageis/festivaldeideias](https://github.com/engageis/festivaldeideias)
+
+Por favor atualizem seus repositórios locais.
+
 
 Site
 ----
